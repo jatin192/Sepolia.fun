@@ -35,7 +35,7 @@ https://sepolia-fun.vercel.app/
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/0xmetaschool/Sepolia.fun.git
+    git clone https://github.com/jatin192/Sepolia.fun.git
     ```
 
 2. Navigate to the project directory:
