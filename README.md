@@ -4,6 +4,25 @@ Sepolia.fun is an advanced Web3 template for creating and deploying meme token s
 
 Built with React.js and connected to Uniswap trading pools, this ready-to-use template helps developers launch their own token projects with automatic pricing and trading features that keep the market healthy.
 
+## Screenshots
+<table>
+  <tr>
+    <td><img src="https://github.com/0xmetaschool/Sepolia.fun/blob/main/public/Sepolia.fun-web3-template-Landing-Page.png" alt="Screenshot 4" width="600"></td>
+    <td><img src="https://github.com/0xmetaschool/Sepolia.fun/blob/main/public/Sepolia.fun-web3-template-Landing-features.png" alt="Screenshot 1" width="600"></td>
+      </tr>
+
+<tr>
+      <td><img src="https://github.com/0xmetaschool/Sepolia.fun/blob/main/public/Sepolia.fun-web3-template-Explorer.png" alt="Screenshot 2" width="600"></td>
+    <td><img src="https://github.com/0xmetaschool/Sepolia.fun/blob/main/public/Sepolia.fun-web3-template-Create-Meme-coin.png" alt="Screenshot 4" width="600"></td>
+  </tr>
+
+<tr>
+    <td><img src="https://github.com/0xmetaschool/Sepolia.fun/blob/main/public/Sepolia.fun-web3-template-Coin-info.png" alt="Screenshot 1" width="600"></td>
+    <td><img src="https://github.com/0xmetaschool/Sepolia.fun/blob/main/public/Sepolia.fun-web3-template-Coin-info1.png" alt="Screenshot 2" width="600"></td>
+  </tr>
+</table>
+
+
 ## Live Demo
 https://sepolia-fun.vercel.app/
 
@@ -70,20 +89,6 @@ https://sepolia-fun.vercel.app/
 
 
 
-## Screenshots
-<table>
-  <tr>
-    <td><img src="https://github.com/0xmetaschool/Sepolia.fun/blob/main/public/Sepolia.fun-web3-template-Landing-Page.png" alt="Screenshot 4" width="400"></td>
-    <td><img src="https://github.com/0xmetaschool/Sepolia.fun/blob/main/public/Sepolia.fun-web3-template-Landing-features.png" alt="Screenshot 1" width="400"></td>
-    <td><img src="https://github.com/0xmetaschool/Sepolia.fun/blob/main/public/Sepolia.fun-web3-template-Explorer.png" alt="Screenshot 2" width="400"></td>
-  </tr>
-
-<tr>
-    <td><img src="https://github.com/0xmetaschool/Sepolia.fun/blob/main/public/Sepolia.fun-web3-template-Create-Meme-coin.png" alt="Screenshot 4" width="400"></td>
-    <td><img src="https://github.com/0xmetaschool/Sepolia.fun/blob/main/public/Sepolia.fun-web3-template-Coin-info.png" alt="Screenshot 1" width="400"></td>
-    <td><img src="https://github.com/0xmetaschool/Sepolia.fun/blob/main/public/Sepolia.fun-web3-template-Coin-info1.png" alt="Screenshot 2" width="400"></td>
-  </tr>
-</table>
 
 
 
